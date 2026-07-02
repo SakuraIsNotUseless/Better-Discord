@@ -14516,4 +14516,6 @@ a.anchor-1MIwyf:hover,
 .panels__5e434{
   background: rgba(0,0,0,.20)!important;
 }
-
+.user-profile-popout .inner_c0bea0{
+  background: var(--Callout-Background)!important;
+}
